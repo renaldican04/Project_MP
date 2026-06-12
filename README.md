@@ -27,6 +27,9 @@ Administrator
 - XAMPP
 
 # Struktur Project
+## Struktur Project
+
+```text
 Project_MP/
 │
 ├── admin/
@@ -60,6 +63,7 @@ Project_MP/
 │   └── index.php
 │
 └── README.md
+```
 
 # Cara Instalasi
 1. Clone Repository
